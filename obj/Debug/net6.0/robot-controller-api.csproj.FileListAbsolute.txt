@@ -1,0 +1,213 @@
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\bin\Debug\net6.0\appsettings.json
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\bin\Debug\net6.0\robot-controller-api.exe
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\bin\Debug\net6.0\robot-controller-api.deps.json
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\bin\Debug\net6.0\robot-controller-api.runtimeconfig.json
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\bin\Debug\net6.0\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\bin\Debug\net6.0\robot-controller-api.pdb
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\robot-controller-api.csproj.AssemblyReference.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\robot-controller-api.AssemblyInfoInputs.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\robot-controller-api.AssemblyInfo.cs
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\robot-controller-api.csproj.CoreCompileInputs.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\staticwebassets\msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\staticwebassets\msbuild.build.robot-controller-api.props
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.robot-controller-api.props
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.robot-controller-api.props
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\scopedcss\bundle\robot-controller-api.styles.css
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\refint\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\robot-controller-api.pdb
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\robot-controller-api.genruntimeconfig.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\2.2P Full API implmentation\robot-controller-api\obj\Debug\net6.0\ref\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\bin\Debug\net6.0\appsettings.json
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\bin\Debug\net6.0\robot-controller-api.exe
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\bin\Debug\net6.0\robot-controller-api.deps.json
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\bin\Debug\net6.0\robot-controller-api.runtimeconfig.json
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\bin\Debug\net6.0\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\bin\Debug\net6.0\robot-controller-api.pdb
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\robot-controller-api.csproj.AssemblyReference.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\robot-controller-api.AssemblyInfoInputs.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\robot-controller-api.AssemblyInfo.cs
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\robot-controller-api.csproj.CoreCompileInputs.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\staticwebassets\msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\staticwebassets\msbuild.build.robot-controller-api.props
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.robot-controller-api.props
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.robot-controller-api.props
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\scopedcss\bundle\robot-controller-api.styles.css
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\robot-controller-api.csproj.CopyComplete
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\refint\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\robot-controller-api.pdb
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\robot-controller-api.genruntimeconfig.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\tASK 3.1P\robot-controller-api\obj\Debug\net6.0\ref\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.2C\robot-controller-api\obj\Debug\net6.0\robot-controller-api.csproj.AssemblyReference.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.2C\robot-controller-api\obj\Debug\net6.0\robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.2C\robot-controller-api\obj\Debug\net6.0\robot-controller-api.AssemblyInfoInputs.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.2C\robot-controller-api\obj\Debug\net6.0\robot-controller-api.AssemblyInfo.cs
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.2C\robot-controller-api\obj\Debug\net6.0\robot-controller-api.csproj.CoreCompileInputs.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.2C\robot-controller-api\obj\Debug\net6.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.2C\robot-controller-api\obj\Debug\net6.0\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.2C\robot-controller-api\obj\Debug\net6.0\refint\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.2C\robot-controller-api\obj\Debug\net6.0\robot-controller-api.pdb
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\robot-controller-api.csproj.AssemblyReference.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\robot-controller-api.AssemblyInfoInputs.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\robot-controller-api.AssemblyInfo.cs
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\robot-controller-api.csproj.CoreCompileInputs.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\appsettings.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\robot-controller-api.exe
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\robot-controller-api.deps.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\robot-controller-api.runtimeconfig.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\robot-controller-api.pdb
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\FastMember.Signed.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\staticwebassets\msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\staticwebassets\msbuild.build.robot-controller-api.props
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.robot-controller-api.props
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.robot-controller-api.props
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\scopedcss\bundle\robot-controller-api.styles.css
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\robot-controller-api.csproj.CopyComplete
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\refint\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\robot-controller-api.pdb
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\robot-controller-api.genruntimeconfig.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\obj\Debug\net6.0\ref\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.csproj.AssemblyReference.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.AssemblyInfoInputs.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.AssemblyInfo.cs
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.csproj.CoreCompileInputs.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\refint\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.pdb
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\appsettings.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\robot-controller-api.exe
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\robot-controller-api.deps.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\robot-controller-api.runtimeconfig.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\robot-controller-api.pdb
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\FastMember.Signed.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\staticwebassets\msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\staticwebassets\msbuild.build.robot-controller-api.props
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.robot-controller-api.props
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.robot-controller-api.props
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\scopedcss\bundle\robot-controller-api.styles.css
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.csproj.CopyComplete
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.genruntimeconfig.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task3.3D\robot-controller-api - Copy\obj\Debug\net6.0\ref\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\appsettings.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\robot-controller-api.exe
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\robot-controller-api.deps.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\robot-controller-api.runtimeconfig.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\robot-controller-api.pdb
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\FastMember.Signed.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.csproj.AssemblyReference.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.AssemblyInfoInputs.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.AssemblyInfo.cs
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.csproj.CoreCompileInputs.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\staticwebassets\msbuild.robot-controller-api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\staticwebassets\msbuild.build.robot-controller-api.props
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.robot-controller-api.props
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.robot-controller-api.props
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\scopedcss\bundle\robot-controller-api.styles.css
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.csproj.CopyComplete
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\refint\robot-controller-api.dll
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.pdb
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\robot-controller-api.genruntimeconfig.cache
+C:\Users\ben\Documents\University\Year 3\SIT331\Task 3.4HD\robot-controller-api - Copy\obj\Debug\net6.0\ref\robot-controller-api.dll
